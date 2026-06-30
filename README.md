@@ -2,4 +2,4 @@
 
 Simple GitHub Pages profile site for RameNiku.
 
-My personal WebPage: https://rameniku.github.io/RameNikuWebPage/
+My personal WebPage: https://rameniku.github.io/pfsite/
