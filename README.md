@@ -2,4 +2,4 @@
 
 Simple GitHub Pages profile site for RameNiku.
 
-The 3Doors card links to: https://rameniku.github.io/3Doors-Game/
+My personal WebPage: https://rameniku.github.io/RameNikuWebPage/
